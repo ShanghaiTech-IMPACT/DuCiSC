@@ -26,7 +26,7 @@ showing superior segmentation results over previous state-of-the-art approaches.
 
 ## Getting Started
 
-Our code is built upon [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) and [MC-Net](https://github.com/ycwu1997/MC-Net). You can refer to these repositories for detailed environment configuration.
+Our code is built upon [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) and [MC-Net](https://github.com/ycwu1997/MC-Net). You can refer to these repositories for detailed environment configuration and dataset set-up.
 
 ## Training & Testing
 
@@ -72,7 +72,7 @@ If you find this code useful for your research, please cite our paper:
 
 ## Acknowledgements
 
-This work was built upon [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) and [MC-Net](https://github.com/ycwu1997/MC-Net). We thank the authors for making their code publicly available.
+Our code was built upon [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) and [MC-Net](https://github.com/ycwu1997/MC-Net). We thank the authors for making their code publicly available.
 
 
 ## Questions
